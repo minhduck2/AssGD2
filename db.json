@@ -1,0 +1,125 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "To do 1",
+      "complete": true
+    },
+    {
+      "title": "To do 3 update",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "To do 4 Update",
+      "complete": true,
+      "id": 4
+    }
+  ],
+  "categorys": [
+    {
+      "name": "Cây Cối",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.tZU5sGWmUVcneL7qc4f-2wHaFT&pid=Api&P=0&h=180",
+      "id": 4
+    },
+    {
+      "name": "Thời Trang ",
+      "image": "https://noithatcnc.com/wp-content/uploads/2020/02/thiet-ke-shop-quan-ao-nu14.jpg.webp",
+      "id": 5
+    },
+    {
+      "name": "Đồ Ăn Ngonnn",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.I-gSYJ4gXZ-BQko5MhD8BAHaHa&pid=Api&P=0&h=180",
+      "id": 6
+    },
+    {
+      "name": "Xe_Đạp",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.bWzf9SOgkycwL8mnRci65wHaHc&pid=Api&P=0&h=180",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "Cây Trồng",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.XGKO2sBJV1_FA7LKm54akQHaFf&pid=Api&P=0&h=180",
+      "price": "123123",
+      "category": "Cây Cối",
+      "id": 20
+    },
+    {
+      "name": "San PHam Co mO ta",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.GFZqWeh3BDn-gvL5ix_P2wHaHN&pid=Api&P=0&h=180",
+      "price": "123123",
+      "mota": "Lorem Ipsum chỉ đơn giản là văn bản giả của việc in ấn và sắp chữ Ahihi Do Ngoc",
+      "category": "Xe_Đạp",
+      "id": 22
+    },
+    {
+      "name": "javascript",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.cTjNMgPr0dN57q3qhxWU4AHaEo&pid=Api&P=0&h=180",
+      "price": "123123",
+      "mota": "Lorem Ipsum chỉ đơn giản là văn bản giả của việc in ấn và sắp chữ Ahihi Do Ngoc",
+      "category": "Cây Cối",
+      "id": 23
+    },
+    {
+      "name": "Cây Đẹp ",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.Z4qzfXosLNYl6Q2qwbm2GAHaEK&pid=Api&P=0&h=180",
+      "price": "100000",
+      "mota": "Cây Đẹp",
+      "category": "Cây Cối",
+      "id": 24
+    },
+    {
+      "name": "Cây Đẹp",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.U2-88R-nkVna8MvreU-r0AHaE7&pid=Api&P=0&h=180",
+      "price": "123456",
+      "mota": "Cây Quá Đẹp",
+      "category": "Cây Cối",
+      "id": 25
+    },
+    {
+      "name": "duc123",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.Uu4weqIeiVqVykZ6KwBvogHaEo&pid=Api&P=0&h=180",
+      "price": "180123123180123123",
+      "category": "4",
+      "id": 26
+    },
+    {
+      "name": "Sản Phẩm a",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.uukmm4dNyOg4aG9sZ2DmzQHaEy&pid=Api&P=0&h=180",
+      "price": "123123",
+      "mota": "Lorem Ipsum chỉ đơn giản là văn bản giả của việc in ấn và sắp chữ Ahihi Do Ngoc",
+      "category": "4",
+      "id": 27
+    },
+    {
+      "name": "Quần áo",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.zVo5BJQtn5EI6kLS7IH-YQHaFL&pid=Api&P=0&h=180",
+      "price": "123123",
+      "mota": "Lorem Ipsum chỉ đơn giản là văn bản giả của việc in ấn và sắp chữ Ahihi Do Ngoc",
+      "category": "5",
+      "id": 28
+    }
+  ],
+  "users": [
+    {
+      "email": "minhduc567843@gmail.com",
+      "password": "$2a$10$T5Wuve.a8RrabXBWxR0CjuSe3mxOmKscDVeUdWZ.E1hwqTLG8t91e",
+      "name": "duc123123",
+      "id": 1
+    },
+    {
+      "email": "ducnmph46687@fpt.edu.vn",
+      "password": "$2a$10$kJh4OYhUpChayESPdW5BZe28j6ZeiXF/w6BdidETwQ7ZLz3y7awdK",
+      "name": "duc123",
+      "id": 2
+    },
+    {
+      "email": "ducminh123@gmail.com",
+      "password": "$2a$10$NTdfTVIi.RoF3yYXapeu2eI5ebpb0K6nz2.oWllkUAwHhFCO0IO/u",
+      "name": "123123",
+      "id": 3
+    }
+  ]
+}
